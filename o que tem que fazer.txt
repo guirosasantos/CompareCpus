@@ -1,0 +1,13 @@
+ENTREGA DO TRABALHO PARA 23/08 (QUARTA-FEIRA) 18:59
+
+◉ Elaborar um programa que leia (para duas organizações):
+    - Números de ciclos de cada formato de instrução do risc-V (CPI?);
+    - Tempo de relógio (clock);
+    - Arquivo de memória de instruções (arquivo binário);
+
+◉ Apresentar os resultados (para cada organização):
+    - Numero de ciclos totais gastos por cada programa;
+    - Os ciclos por instrução (CPI) médio de cada programa;
+    - Qual organização teve melhor desempenho e quão melhor foi;
+
+◉ Postar o código no GitHub e enviar para o AVA
